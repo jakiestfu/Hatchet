@@ -1,7 +1,7 @@
 # Hatchet
 <img src="https://raw.github.com/jakiestfu/Hatchet/master/assets/img/hatchet.png">
 
-Hatchet is a mobile client for <a href="http://news.ycombinator.com/news" target="_blank">Y Combinator Hacker News</a>, and was bult with <a href="http://maker.github.com/ratchet/" target="_blank">Ratchet</a>. Currently, it is tailored for iOS devices.
+Hatchet is a mobile client for <a href="http://news.ycombinator.com/news" target="_blank">Y Combinator Hacker News</a>, and was built with <a href="http://maker.github.com/ratchet/" target="_blank">Ratchet</a>. Currently, it is tailored for iOS devices.
 
 Hacker + Ratchet = Hatchet, get it? eehh.
 
