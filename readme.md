@@ -7,5 +7,7 @@ Hacker + Ratchet = Hatchet, get it? eehh.
 
 Currently, this is <b>read only</b>, and there is no support for pagination.
 
+To view a demo, <a href="http://lab.jakiestfu.com/hatchet/" target="_blank">head over meow</a>.
+
 ## Installation
 Upload files to any directory on a PHP enabled web server, and navigate to the address on your iOS device.
